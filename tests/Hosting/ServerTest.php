@@ -281,5 +281,4 @@ class ServerTest extends \PHPUnit_Framework_TestCase
         $server = new Server('test');
         $server->setServices([]);
     }
-
 }

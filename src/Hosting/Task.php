@@ -79,7 +79,7 @@ final class Task implements TaskInterface
                 )
             );
         }
-        $this->id = $taskID;
+        $this->taskID = $taskID;
     }
 
     /**

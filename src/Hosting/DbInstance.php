@@ -87,7 +87,7 @@ final class DbInstance implements DbInstanceInterface
      */
     public function getInstanceName()
     {
-        return $this->instance_name;
+        return $this->instanceName;
     }
 
     /**
