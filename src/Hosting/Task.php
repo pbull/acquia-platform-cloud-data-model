@@ -127,7 +127,7 @@ final class Task implements TaskInterface
      */
     public function getID()
     {
-        return $this->id;
+        return $this->taskID;
     }
 
     /**
